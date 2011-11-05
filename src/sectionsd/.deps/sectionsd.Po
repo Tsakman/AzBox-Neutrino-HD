@@ -1,0 +1,709 @@
+sectionsd.o: sectionsd.cpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/malloc.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/features.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/predefs.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/cdefs.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/wordsize.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/gnu/stubs.h \
+ /home/tommy/OE/azboxhd/build/tmp/cross/mipsel/lib/gcc/mipsel-oe-linux/4.4.3/include/stddef.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/stdio.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/types.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/typesizes.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/libio.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/_G_config.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/wchar.h \
+ /home/tommy/OE/azboxhd/build/tmp/cross/mipsel/lib/gcc/mipsel-oe-linux/4.4.3/include/stdarg.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/stdio_lim.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sys_errlist.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/stdio.h \
+ dmx.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/pthread.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/endian.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/endian.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/byteswap.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sched.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/time.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sched.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/time.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/xlocale.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/signal.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigset.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/pthreadtypes.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/setjmp.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sgidefs.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/stdint.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/wchar.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/types.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/select.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/select.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/sysmacros.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/vector \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_algobase.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/c++config.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/os_defines.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/cpu_defines.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cstddef \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/functexcept.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/exception_defines.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/cpp_type_traits.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/ext/type_traits.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/ext/numeric_traits.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_pair.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/move.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/concept_check.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_iterator_base_types.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_iterator_base_funcs.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_iterator.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/debug/debug.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/allocator.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/c++allocator.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/ext/new_allocator.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/new \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/exception \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_construct.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_uninitialized.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_vector.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/initializer_list \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_bvector.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/vector.tcc \
+ ../../lib/libazbox/dmx_cs.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/string \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stringfwd.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/char_traits.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/postypes.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cwchar \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/localefwd.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/c++locale.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/clocale \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/locale.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/locale.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/ctype.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/iosfwd \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cctype \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/ostream_insert.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cxxabi-forced.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_function.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/backward/binders.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/basic_string.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/ext/atomicity.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/gthr.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/gthr-default.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/unistd.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/posix_opt.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/environments.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/confname.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/getopt.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/atomic_word.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/basic_string.tcc \
+ ../../lib/libazbox/cs_types.h dmxapi.h ../../config.h \
+ ../../src/zapit/include/linux/dvb/dmx.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/types.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm-generic/int-ll64.h \
+ debug.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/socket.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/uio.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/uio.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/socket.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sockaddr.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/socket.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/sockios.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/ioctl.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/un.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/string.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/netinet/in.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/in.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/netinet/in_systm.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/netinet/ip.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/netdb.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/rpc/netdb.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/siginfo.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/netdb.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/stdlib.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/waitflags.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/waitstatus.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/alloca.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/poll.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/poll.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/semaphore.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/semaphore.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/fcntl.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/fcntl.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/stat.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/stat.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/ioctl.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/ioctls.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/ioctls.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/ioctl-types.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/ttydefaults.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/arpa/inet.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/errno.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/errno.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/linux/errno.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/errno.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm-generic/errno-base.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/signum.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigaction.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigcontext.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigstack.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/ucontext.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigthread.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/set \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_tree.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_set.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_multiset.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/map \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_map.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_multimap.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/algorithm \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_algo.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cstdlib \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/algorithmfwd.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_heap.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_tempbuf.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/limits \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/wait.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/resource.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/resource.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/time.h \
+ ../../lib/connection/basicsocket.h ../../lib/connection/basicserver.h \
+ ../../lib/connection/basicmessage.h ../../lib/xmltree/xmlinterface.h \
+ ../../lib/xmltree/xmltree.h ../../lib/xmltree/xmlparse.h \
+ ../../lib/xmltree/xmltok.h ../../lib/xmltree/xmlrole.h \
+ ../../lib/xmltree/hashtab.h ../../src/zapit/include/zapit/settings.h \
+ ../../lib/libconfigfile/configfile.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/shared_ptr.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/shared_ptr.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/user.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/select_compiler_config.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/compiler/gcc.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/select_stdlib_config.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/no_tr1/utility.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/utility \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_relops.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/stdlib/libstdcpp3.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/select_platform_config.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/platform/linux.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/posix_features.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/suffix.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/no_tr1/memory.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/memory \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_raw_storage_iter.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/backward/auto_ptr.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/assert.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/assert.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/checked_delete.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/throw_exception.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/exception/detail/attribute_noreturn.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/detail/workaround.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/exception/exception.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/current_function.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/shared_count.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/bad_weak_ptr.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_counted_base.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_has_sync.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_counted_base_gcc_mips.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/detail/sp_typeinfo.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/typeinfo \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_counted_impl.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/functional \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_convertible.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/spinlock_pool.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/spinlock.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/spinlock_sync.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/yield_k.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/memory_order.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/operator_bool.hpp \
+ ../../lib/sectionsdclient/sectionsdMsg.h \
+ ../../lib/connection/basicmessage.h \
+ ../../src/zapit/include/zapit/client/zapittypes.h \
+ ../../src/zapit/include/zapit/types.h \
+ ../../src/zapit/include/zapit/client/zapittypes.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/inttypes.h \
+ ../../src/zapit/include/linux/dvb/frontend.h \
+ ../../lib/sectionsdclient/sectionsdclient.h \
+ ../../lib/connection/basicclient.h \
+ ../../lib/sectionsdclient/sectionsdtypes.h \
+ ../../lib/libeventserver/eventserver.h SIutils.hpp SIservices.hpp \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cstring \
+ SIevents.hpp edvbstring.h SIsections.hpp SIlanguage.hpp
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/malloc.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/features.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/predefs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/cdefs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/wordsize.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/gnu/stubs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/cross/mipsel/lib/gcc/mipsel-oe-linux/4.4.3/include/stddef.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/stdio.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/types.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/typesizes.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/libio.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/_G_config.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/wchar.h:
+
+/home/tommy/OE/azboxhd/build/tmp/cross/mipsel/lib/gcc/mipsel-oe-linux/4.4.3/include/stdarg.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/stdio_lim.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sys_errlist.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/stdio.h:
+
+dmx.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/pthread.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/endian.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/endian.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/byteswap.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sched.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/time.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sched.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/time.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/xlocale.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/signal.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigset.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/pthreadtypes.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/setjmp.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sgidefs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/stdint.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/wchar.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/types.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/select.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/select.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/sysmacros.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/vector:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_algobase.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/c++config.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/os_defines.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/cpu_defines.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cstddef:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/functexcept.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/exception_defines.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/cpp_type_traits.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/ext/type_traits.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/ext/numeric_traits.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_pair.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/move.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/concept_check.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_iterator_base_types.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_iterator_base_funcs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_iterator.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/debug/debug.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/allocator.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/c++allocator.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/ext/new_allocator.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/new:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/exception:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_construct.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_uninitialized.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_vector.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/initializer_list:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_bvector.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/vector.tcc:
+
+../../lib/libazbox/dmx_cs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/string:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stringfwd.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/char_traits.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/postypes.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cwchar:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/localefwd.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/c++locale.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/clocale:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/locale.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/locale.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/ctype.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/iosfwd:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cctype:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/ostream_insert.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cxxabi-forced.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_function.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/backward/binders.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/basic_string.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/ext/atomicity.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/gthr.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/gthr-default.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/unistd.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/posix_opt.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/environments.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/confname.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/getopt.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/mipsel-oe-linux/bits/atomic_word.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/basic_string.tcc:
+
+../../lib/libazbox/cs_types.h:
+
+dmxapi.h:
+
+../../config.h:
+
+../../src/zapit/include/linux/dvb/dmx.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/types.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm-generic/int-ll64.h:
+
+debug.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/socket.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/uio.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/uio.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/socket.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sockaddr.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/socket.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/sockios.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/ioctl.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/un.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/string.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/netinet/in.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/in.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/netinet/in_systm.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/netinet/ip.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/netdb.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/rpc/netdb.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/siginfo.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/netdb.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/stdlib.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/waitflags.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/waitstatus.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/alloca.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/poll.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/poll.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/semaphore.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/semaphore.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/fcntl.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/fcntl.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/stat.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/stat.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/ioctl.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/ioctls.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/ioctls.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/ioctl-types.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/ttydefaults.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/arpa/inet.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/errno.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/errno.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/linux/errno.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm/errno.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/asm-generic/errno-base.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/signum.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigaction.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigcontext.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigstack.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/ucontext.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigthread.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/set:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_tree.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_set.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_multiset.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/map:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_map.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_multimap.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/algorithm:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_algo.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cstdlib:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/algorithmfwd.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_heap.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_tempbuf.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/limits:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/wait.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/resource.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/resource.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/time.h:
+
+../../lib/connection/basicsocket.h:
+
+../../lib/connection/basicserver.h:
+
+../../lib/connection/basicmessage.h:
+
+../../lib/xmltree/xmlinterface.h:
+
+../../lib/xmltree/xmltree.h:
+
+../../lib/xmltree/xmlparse.h:
+
+../../lib/xmltree/xmltok.h:
+
+../../lib/xmltree/xmlrole.h:
+
+../../lib/xmltree/hashtab.h:
+
+../../src/zapit/include/zapit/settings.h:
+
+../../lib/libconfigfile/configfile.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/shared_ptr.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/shared_ptr.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/user.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/select_compiler_config.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/compiler/gcc.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/select_stdlib_config.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/no_tr1/utility.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/utility:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_relops.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/stdlib/libstdcpp3.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/select_platform_config.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/platform/linux.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/posix_features.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/suffix.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/config/no_tr1/memory.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/memory:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/bits/stl_raw_storage_iter.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/backward/auto_ptr.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/assert.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/assert.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/checked_delete.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/throw_exception.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/exception/detail/attribute_noreturn.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/detail/workaround.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/exception/exception.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/current_function.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/shared_count.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/bad_weak_ptr.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_counted_base.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_has_sync.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_counted_base_gcc_mips.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/detail/sp_typeinfo.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/typeinfo:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_counted_impl.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/functional:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/sp_convertible.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/spinlock_pool.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/spinlock.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/spinlock_sync.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/yield_k.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/memory_order.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/boost/smart_ptr/detail/operator_bool.hpp:
+
+../../lib/sectionsdclient/sectionsdMsg.h:
+
+../../lib/connection/basicmessage.h:
+
+../../src/zapit/include/zapit/client/zapittypes.h:
+
+../../src/zapit/include/zapit/types.h:
+
+../../src/zapit/include/zapit/client/zapittypes.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/inttypes.h:
+
+../../src/zapit/include/linux/dvb/frontend.h:
+
+../../lib/sectionsdclient/sectionsdclient.h:
+
+../../lib/connection/basicclient.h:
+
+../../lib/sectionsdclient/sectionsdtypes.h:
+
+../../lib/libeventserver/eventserver.h:
+
+SIutils.hpp:
+
+SIservices.hpp:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux//usr/include/c++/cstring:
+
+SIevents.hpp:
+
+edvbstring.h:
+
+SIsections.hpp:
+
+SIlanguage.hpp:

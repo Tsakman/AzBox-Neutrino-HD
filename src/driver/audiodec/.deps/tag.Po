@@ -1,0 +1,9 @@
+tag.o: tag.c ../../../config.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/mad.h \
+ ../../../src/driver/audiodec/tag.h
+
+../../../config.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/mad.h:
+
+../../../src/driver/audiodec/tag.h:

@@ -1,0 +1,66 @@
+slotbuffer.o: slotbuffer.c slotbuffer.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/types.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/features.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/predefs.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/cdefs.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/wordsize.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/gnu/stubs.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/types.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/typesizes.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/time.h \
+ /home/tommy/OE/azboxhd/build/tmp/cross/mipsel/lib/gcc/mipsel-oe-linux/4.4.3/include/stddef.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/endian.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/endian.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/byteswap.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/select.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/select.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigset.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/time.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/sysmacros.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/pthreadtypes.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/stdlib.h \
+ /home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/alloca.h
+
+slotbuffer.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/types.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/features.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/predefs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/cdefs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/wordsize.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/gnu/stubs.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/types.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/typesizes.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/time.h:
+
+/home/tommy/OE/azboxhd/build/tmp/cross/mipsel/lib/gcc/mipsel-oe-linux/4.4.3/include/stddef.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/endian.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/endian.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/byteswap.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/select.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/select.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/sigset.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/time.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/sys/sysmacros.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/bits/pthreadtypes.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/stdlib.h:
+
+/home/tommy/OE/azboxhd/build/tmp/staging/mipsel-oe-linux/usr/include/alloca.h:
